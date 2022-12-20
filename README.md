@@ -28,7 +28,7 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 <br/>
 <br/>
   
-### ⚙️ Ferramentas e tecnologias aprendidas usadas em Front-End
+### ⚙️ Ferramentas e tecnologias usadas em Front-End
  
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align=left alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
 /><a>
@@ -49,7 +49,7 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 <br/>
 <br/>
  
-### ⚙️ Ferramentas e tecnologias aprendidas usadas em Back-End
+### ⚙️ Ferramentas e tecnologias usadas em Back-End
  
 <a href="https://docs.docker.com/"><img align=left alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
 /><a>
