@@ -71,6 +71,7 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
    
 <a href="https://en.wikipedia.org/wiki/SOLID"><img align=left alt="Solid" src="https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white"
 /><a>
+<br/>
     
 <a href="https://www.mongodb.com/docs/atlas/"><img align=left alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
 /><a>
