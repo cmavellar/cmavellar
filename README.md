@@ -58,8 +58,6 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 <a href="https://expressjs.com/"><img align=left alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
 /><a>
 
-<br/> 
-
 <a href="https://sequelize.org/"><img align=left alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"
 /><a>
   
@@ -75,7 +73,22 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 <br/>
 <br/>
 <br/>
-
+ 
+### Ferramentas usadas para Testes
+ 
+<a href="https://jestjs.io/pt-BR/"><img align=left alt="Jest" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white"
+/><a>
+ 
+<a href="https://mochajs.org/"><img align=left alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"
+/><a>
+ 
+<a href="https://www.chaijs.com/"><img align=left alt="Chai" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+/><a>
+ 
+<br/>
+<br/>
+<br/>
+  
 ### Contato
 
 <a href="www.linkedin.com/in/cassia-avellar"><img align=left alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
