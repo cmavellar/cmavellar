@@ -5,12 +5,8 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 
 ### Contato 
 
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]({(www.linkedin.com/in/cassia-avellar)})
+<a href="www.linkedin.com/in/cassia-avellar"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Para entrar em contato comigo, acesse meu [Linkedin](www.linkedin.com/in/cassia-avellar) ou mande um e-mail.
-
-
-
-
+<a href="mailto:c.m.avellar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
 
