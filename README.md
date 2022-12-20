@@ -1,6 +1,6 @@
 ### Olá!
 
-Meu nome é **Cássia Avellar**,sou carioca e professora, formada em Pedagogia e estou em transição de carreira para a área de Tecnologia.
+Meu nome é **Cássia Avellar**, sou carioca e professora, formada em Pedagogia e estou em transição de carreira para a área de Tecnologia.
 
 ### O que estou fazendo no momento?
 Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks necessárias para ser uma desenvolvedora web fullstack!
