@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá!
 
-<!--
-**cmavellar/cmavellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Cássia Avellar, carioca, sou professora, formada em Pedagogia e estou em transição de carreira para a área de Tecnologia.
+Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks necessárias para ser uma desenvolvedora web fullstack!
 
-Here are some ideas to get you started:
+### Contato 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]({(www.linkedin.com/in/cassia-avellar)})
+
+Para entrar em contato comigo, acesse meu [Linkedin](www.linkedin.com/in/cassia-avellar) ou mande um e-mail.
+
+
+
+
+
+
