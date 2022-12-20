@@ -58,6 +58,8 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 <a href="https://expressjs.com/"><img align=left alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
 /><a>
 
+<br/> 
+
 <a href="https://sequelize.org/"><img align=left alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"
 /><a>
   
