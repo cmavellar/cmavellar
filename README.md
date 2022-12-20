@@ -94,7 +94,7 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 <br/>
 <br/>
 <br/>
-  
+   
 ![Cassia Avellar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmavellar&show_icons=true&theme=transparent&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmavellar&layout=compact)](https://github.com/cmavellar/github-readme-stats)
 
