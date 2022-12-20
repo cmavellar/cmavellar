@@ -1,12 +1,12 @@
-### Olá!
+### 👋 Olá!
 
 Meu nome é **Cássia Avellar**, sou carioca e professora, formada em Pedagogia e estou em transição de carreira para a área de Tecnologia.
 
-### O que estou fazendo no momento?
+### 📌 O que estou fazendo no momento?
 Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks necessárias para ser uma desenvolvedora web fullstack!
 
 
-### Contato
+### 📫 Contato
 
 <a href="www.linkedin.com/in/cassia-avellar"><img align=left alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -16,7 +16,7 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 <br/>
 <br/>
 
-### Linguagens
+### 💡 Linguagens
 
 <a href="https://www.javascript.com/"><img align=left alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
  /><a>
@@ -28,7 +28,7 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 <br/>
 <br/>
   
-### Ferramentas e tecnologias aprendidas usadas em Front-End
+### ⚙️ Ferramentas e tecnologias aprendidas usadas em Front-End
  
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align=left alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
 /><a>
@@ -49,7 +49,7 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 <br/>
 <br/>
  
-### Ferramentas e tecnologias aprendidas usadas em Back-End
+### ⚙️ Ferramentas e tecnologias aprendidas usadas em Back-End
  
 <a href="https://docs.docker.com/"><img align=left alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
 /><a>
@@ -79,7 +79,7 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 <br/>
 <br/>
  
-### Ferramentas usadas para Testes
+### ⚙️ Ferramentas usadas para Testes
  
 <a href="https://jestjs.io/pt-BR/"><img align=left alt="Jest" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white"
 /><a>
