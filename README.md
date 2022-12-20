@@ -5,9 +5,14 @@ Meu nome é **Cássia Avellar**,sou carioca e professora, formada em Pedagogia e
 ### O que estou fazendo no momento?
 Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks necessárias para ser uma desenvolvedora web fullstack!
 
-### Curiosidades
 
+### Contato
 
+<a href="www.linkedin.com/in/cassia-avellar"><img align=left alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="mailto:c.m.avellar@gmail.com"><img align=left alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/>
 <br/>
 <br/>
 
@@ -89,11 +94,8 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 <br/>
 <br/>
   
-### Contato
-
-<a href="www.linkedin.com/in/cassia-avellar"><img align=left alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<a href="mailto:c.m.avellar@gmail.com"><img align=left alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+![Cassia Avellar's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmavellar&show_icons=true&theme=transparent&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmavellar&layout=compact)](https://github.com/cmavellar/github-readme-stats)
 
 
 
