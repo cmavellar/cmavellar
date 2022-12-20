@@ -7,13 +7,45 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 
 ### Curiosidades
 
-### Ferramentas e tecnologias de aprendidas usadas em Front-End
+### Linguagens
 
-<a href="https://pt-br.reactjs.org/"><img alt="Icone React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+<a href="https://www.javascript.com/"><img align=left alt="Icone Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
  /><a>
+ 
+ <a href="https://www.typescriptlang.org/"><img align=left alt="Icone Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+ /><a> 
+
+
+
+### Ferramentas e tecnologias aprendidas usadas em Front-End
+
+<a href="https://pt-br.reactjs.org/"><img align=left alt="Icone React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+ /><a>
+ 
+ <a href="https://redux.js.org/"><img align=left alt="Icone React Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+ /><a>
+ 
+ <a href="https://reactrouter.com/en/main/"><img align=left alt="Icone React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
+ /><a> 
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Ferramentas e tecnologias aprendidas usadas em Back-End
+
+
+
+
+
 
 ### Contato
 
