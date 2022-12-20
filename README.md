@@ -8,9 +8,9 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 
 ### 📫 Contato
 
-<a href="www.linkedin.com/in/cassia-avellar"><img align=left alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/cassia-avellar" target="_blank"><img align=left alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="mailto:c.m.avellar@gmail.com"><img align=left alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:c.m.avellar@gmail.com" target="_blank"><img align=left alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
 <br/>
@@ -18,10 +18,10 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
 
 ### 💡 Linguagens
 
-<a href="https://www.javascript.com/"><img align=left alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+<a href="https://www.javascript.com/" target="_blank"><img align=left alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
  /><a>
  
-<a href="https://www.typescriptlang.org/"><img align=left alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+<a href="https://www.typescriptlang.org/" target="_blank"><img align=left alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
  /><a> 
     
 <br/>   
@@ -30,19 +30,19 @@ Atualmente estou estudando na Trybe, e em breve me formando com todas as stacks 
   
 ### ⚙️ Ferramentas e tecnologias usadas em Front-End
  
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align=left alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align=left alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
 /><a>
  
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align=left alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align=left alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
 /><a>
 
-<a href="https://pt-br.reactjs.org/"><img align=left alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+<a href="https://pt-br.reactjs.org/" target="_blank"><img align=left alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
 /><a>
  
-<a href="https://redux.js.org/"><img align=left alt="React Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+<a href="https://redux.js.org/" target="_blank"><img align=left alt="React Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
 /><a>
   
-<a href="https://reactrouter.com/en/main/"><img align=left alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
+<a href="https://reactrouter.com/en/main/" target="_blank"><img align=left alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
 /><a>
  
 <br/>
